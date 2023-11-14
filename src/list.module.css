@@ -1,0 +1,17 @@
+.title {
+    color: darkgreen;
+    font-size: 72px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.listItem {
+    background-color: beige;
+    border-radius: 15px;
+    font-size: 28px;
+    margin: 15px;
+    padding: 40px 15px;
+}
